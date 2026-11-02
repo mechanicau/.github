@@ -8,10 +8,6 @@ Provide a brief summary of your PR...
 
 - Link to the related PR.
 
-## Notes
-
-- Any additional notes you think will be useful.
-
 ## Verification and testing
 
 **If there is both a problem and a solution, these steps should document how to demonstrate the problem that is being solved. If there is no problem (it's just a feature) you can remove the _Recreate_ section below.**
